@@ -8,5 +8,6 @@ namespace UseCases
 {
     class TestClass
     {
+        public int MyProperty { get; set; }
     }
 }
